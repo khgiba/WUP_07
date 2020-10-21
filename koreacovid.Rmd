@@ -80,5 +80,5 @@ The odds of dying are 2.3 to 1.
 
 ## Conclusions
 
-We reject the Null hypothesis, the p-value = 0.001 which is less then 0.5, there are more women then males alive, but the death shows more males are passing, since there are more women then males it should average about the same.
+We reject the Null hypothesis, the p-value = 0.001 which is less then 0.5, there are more women then males alive, but the death shows more males are passing, since there are more women then males it should average about the same.  
 
