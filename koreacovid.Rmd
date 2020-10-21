@@ -65,7 +65,15 @@ Out of 100 percent of people who passed 1.4 percent are female and 3 percent are
 
 
 ## Inferential results 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+The odds of dying if your a male is 44/1411  
+The odds of dying if your a female is 25/1831  
+the odds ratio is (44/1411)/(25/1831)  
+The odds of dying are 2.3 to 1.  
 
 
 
