@@ -18,7 +18,8 @@ kRdata <- read.csv(file = 'kRdata.csv')
 ### Data is from the Patient_Info dataset from South Korea 1 Jan to 1 May 
 ### This is contained in a downloadable zip file from kaggle
 
-
+$H_0$ there is no difference between sex and death in the koreacovid study.  
+$H_A$ There is a difference between the male and female in the percentage of death.   
 
 Some of the data was uncoded for sex - sex must be just male or female
 77 of the data entries were coded sex  as blank, so we omit these.
